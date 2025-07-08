@@ -32,3 +32,19 @@ This project presents a professional, data-driven dashboard built in **Power BI*
 - **DAX (Data Analysis Expressions)** (for custom calculations and measures)
 
 ---
+
+## 📂 Repository Contents
+
+- `British Railway Dashboard.pbix` — Power BI report file with fully interactive dashboards.
+- (Optional) `Data Sources/` — Source data files (not included for confidentiality).
+- `README.md` — This documentation.
+
+---
+
+## 💡 Use Cases
+
+- **Transport Authorities** – Monitor service performance and optimize scheduling.
+- **Researchers & Analysts** – Conduct trend analysis or performance benchmarking.
+- **Business Intelligence Teams** – Integrate railway data into wider transport KPIs.
+
+---
